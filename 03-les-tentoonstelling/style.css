@@ -1,0 +1,48 @@
+body {
+    background-color: beige;
+}
+
+#container {
+    background-color: red;
+    width: 700px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+h2 {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+}
+
+/*button {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+
+
+*/
+
+#button1 {
+
+    text-align: center;
+    position: relative;
+    margin-top: -30px;
+}
